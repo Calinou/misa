@@ -1,7 +1,9 @@
 # Misa texture pack for Minetest
 
-[Misa's realistic 64×64 Minecraft texture pack](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1223248-misas-realistic-texture-pack-updated-1jul13)
-converted to Minetest.
+**[Misa's realistic 64×64 Minecraft texture pack](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1223248-misas-realistic-texture-pack-updated-1jul13)
+converted to Minetest.**
+
+[![Preview](https://archive.hugo.pro/.public/misa/misa-thumbnail.png)](https://archive.hugo.pro/.public/misa/misa.png)
 
 ## Installation
 
