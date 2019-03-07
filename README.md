@@ -11,8 +11,9 @@ converted to Minetest.**
 
 1. Clone this repository or [download a ZIP archive](https://github.com/Calinou/misa/archive/master.zip).
 
-2. Extract the ZIP archive into the `textures/` folder of your Minetest installation folder.
-   The `misa/` folder must be located directly inside the `textures/` folder.
+2. Extract the ZIP archive into the `textures/` folder of your
+   Minetest installation folder. The `misa/` folder must be located
+   directly inside the `textures/` folder.
    (Unlike mods, the exact folder name has no importance.)
 
 3. Start Minetest, go to the **Texturepacks** menu and choose **misa**.
