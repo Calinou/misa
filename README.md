@@ -5,6 +5,8 @@ converted to Minetest.**
 
 [![Preview](https://archive.hugo.pro/.public/misa/misa-thumbnail.png)](https://archive.hugo.pro/.public/misa/misa.png)
 
+## [Gallery](GALLERY.md)
+
 ## Installation
 
 1. Clone this repository or [download a ZIP archive](https://github.com/Calinou/misa/archive/master.zip).
